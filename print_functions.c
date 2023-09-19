@@ -3,13 +3,13 @@
 /************************* PRINT CHAR *************************/
 
 /**
- * print_char - A function that prints a char
+ * print_char - This function prints a char
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
  * @width: Width
- * @precision: Precision specification
- * @size: Size specifier
+ * @precision:Gives the precision specification
+ * @size: Specifies the sizes
  * Return: Number of chars printed
  */
 int print_char(va_list types, char buffer[],
