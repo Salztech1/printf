@@ -1,2 +1,1 @@
-my readme file for printf
-A printf project done by salome and Sophia
+my readme file for printf done by salome and Sophia.
